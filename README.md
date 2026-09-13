@@ -1,68 +1,63 @@
-
-```
- ▄▄▄       ███▄    █   ▄████  ▄▄▄       ██▀███   ██▓ ▄████ 
-▒████▄     ██ ▀█   █  ██▒ ▀█▒▒████▄    ▓██ ▒ ██▒▓██▒██▒ ▀█▒
-▒██  ▀█▄  ▓██  ▀█ ██▒▒██░▄▄▄░▒██  ▀█▄  ▓██ ░▄█ ▒▒██▒▒██░▄▄▄░
-░██▄▄▄▄██ ▓██▒  ▐▌██▒░▓█  ██▓░██▄▄▄▄██ ▒██▀▀█▄  ░██░░▓█  ██▓
- ▓█   ▓██▒▒██░   ▓██░░▒▓███▀▒ ▓█   ▓██▒░██▓ ▒██▒░██░░▒▓███▀▒
- ▒▒   ▓▒█░░ ▒░   ▒ ▒  ░▒   ▒  ▒▒   ▓▒█░░ ▒▓ ░▒░░░▓  ░▒   ▒ 
-```
-
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────┐
-│  OPERATOR:   UGLY GRAVE                     │
-│  HANDLE:     @quazovsky                     │
-│  STATUS:     [■■■■■■■■□□] LEARNING          │
-│  MODE:       NO NOISE. JUST CODE.           │
-└─────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b26,100:0d1117&height=180&section=header&text=Ugly%20Grave&fontSize=55&fontColor=e6edf3&fontAlignY=40&desc=@quazovsky&descAlignY=62&descSize=20&stroke=e6edf3&strokeWidth=1" width="100%"/>
 
 </div>
 
-## █ WHO
-
-> I build things. I break things. Then I rebuild them better.
-> Systems, scripts, web. No fluff, no buzzwords — just work that runs.
-
-## █ STACK
+# <div align="center"> Привет, я **Ugly Grave** 👋 </div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,lua,docker,nextjs,js,css&theme=dark" alt="stack"/>
-
-```text
-PYTHON ▓▓▓▓▓▓▓▓▓▓  LUA    ▓▓▓▓▓▓▓▓░░
-DOCKER ▓▓▓▓▓▓▓▓▓░░  NEXTJS ▓▓▓▓▓▓▓░░░
-JS     ▓▓▓▓▓▓▓▓░░░  CSS    ▓▓▓▓▓▓▓▓░░
-```
+Занимаюсь разработкой и системным администрированием.
+Люблю автоматизацию, контейнеры и чистый, аккуратный код.
 
 </div>
 
-## █ STATS
+---
+
+## 🧰 Стек
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=quazovsky&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" alt="stats"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quazovsky&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" alt="langs"/>
-
-<img src="https://streak-stats.demolab.com?user=quazovsky&hide_border=true&background=000000&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff" alt="streak"/>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| 🐍 **Python** | 🌙 **Lua** | 🐳 **Docker** | ⚡ **Next.js** |
+| 🟨 **JavaScript** | 🎨 **CSS** | 🐧 **Linux** | 🔧 **PowerShell** |
 
 </div>
 
-## █ SIGNAL
+---
+
+## 📊 Статистика
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-quazovsky-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/quazovsky)
-![Views](https://img.shields.io/badge/VIEWS-alive-000000?style=flat-square)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quazovsky&theme=github_dark" alt="Profile details" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quazovsky&theme=github_dark" alt="Repos per language" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quazovsky&theme=github_dark" alt="Most committed languages" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quazovsky&theme=github_dark" alt="Stats" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quazovsky&theme=github_dark" alt="Productive time" width="49%"/>
+<img src="https://ghchart.rshah.org/7c9ef5/quazovsky" alt="Contribution chart" width="49%"/>
 
 </div>
 
-```
-─────────────────────────────────────────────
- NO LIGHT. NO GLOSS. RAW OUTPUT ONLY.
-─────────────────────────────────────────────
-```
+---
+
+## 📫 Связь
+
+<div align="center">
+
+<a href="https://github.com/quazovsky">
+  <img src="https://img.shields.io/badge/GitHub-quazovsky-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22" alt="GitHub"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=quazovsky&color=7c9ef5&style=flat-square&label=Просмотры+профиля" alt="Profile views"/>
+
+</div>
+
+<div align="center">
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b26&height=90&section=footer" width="100%"/>
+</div>
