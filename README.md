@@ -15,7 +15,3 @@ I build my own projects — small tools, scripts and web apps.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quazovsky&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quazovsky&theme=github_dark)
-
-## Find me
-
-[GitHub](https://github.com/quazovsky) · [Repositories](https://github.com/quazovsky?tab=repositories)
